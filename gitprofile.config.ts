@@ -81,7 +81,7 @@ const CONFIG = {
       companyLink: 'https://habitualbeautystudio.com',
     },
     {
-      company: 'Molly's Wax Shop',
+      company: 'Mollys Wax Shop',
       position: 'Esthetician',
       from: 'July 2014',
       to: 'October 2021',
