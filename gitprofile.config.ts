@@ -35,25 +35,50 @@ const CONFIG = {
         {
           title: 'Professioanl Statement',
           description:
-            'Some words on professionalism',
+            'My thoughts and words on professionalism',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: ' in all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection. ',
+          link: 'In all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection. ',
         },
         {
-          title: 'Project Name',
+          title: 'NIST Security Framework',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'NIST Security Framework Response.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://docs.google.com/document/d/1s2QG_sgF6SrCcCkI1g2C3dp-FPbaqdQD/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },
+        {
+          title: 'Conduct a security audit',
+          description:
+            'Fictional company, non-fiction security audit.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/1LX47eHeomrKv_iQ6DpKOhmFnFH8qFiU8/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
+        },   
+       {
+          title: 'Linux Basics',
+          description:
+            'Basically a Linux champion.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/1VdPMx-ibpVK2rpfXU50JwMdMIUs3AkIr/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
+        },
+        {
+          title: 'Full Network Recommendation',
+          description:
+            'Full breakdown of a company network and best security recommendations.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/1RMhUHzIAYAqAL445cSuz0TLCpSqo6vHA/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
+          'https://docs.google.com/presentation/d/1EaGMyibMy88OzvQURC6r9uUp73wo4d0m/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
+        },    
       ],
     },
   },
   seo: {
     title: 'Portfolio of Arianna DeNardo',
-    description: '',
+    description: 'Showcasing my competence and expertise',
     imageURL: '',
   },
   social: {
