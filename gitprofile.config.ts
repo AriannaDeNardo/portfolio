@@ -38,7 +38,7 @@ const CONFIG = {
             'Some words on professionalism',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: ' in all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection. ',
         },
         {
           title: 'Project Name',
