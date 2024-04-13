@@ -70,7 +70,7 @@ const CONFIG = {
             'Full breakdown of a company network and best security recommendations.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://docs.google.com/document/d/1RMhUHzIAYAqAL445cSuz0TLCpSqo6vHA/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
+          link: 'https://docs.google.com/document/d/1RMhUHzIAYAqAL445cSuz0TLCpSqo6vHA/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true':
           'https://docs.google.com/presentation/d/1EaGMyibMy88OzvQURC6r9uUp73wo4d0m/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },    
       ],
