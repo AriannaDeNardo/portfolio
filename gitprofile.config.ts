@@ -34,10 +34,9 @@ const CONFIG = {
       projects: [
         {
           title: 'Professional Statement',
-          description:
-            'My thoughts and words on professionalism', 
-            'In all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection.',          
-          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          description: 'My thoughts and words on professionalism', 
+          description:'In all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection.',          
+          imageUrl:'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
         },
         {
           title: 'NIST Security Framework',
