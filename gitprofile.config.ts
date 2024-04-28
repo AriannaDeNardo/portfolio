@@ -33,12 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Professioanl Statement',
+          title: 'Professional Statement',
           description:
-            'My thoughts and words on professionalism',
-          imageUrl:
+            'My thoughts and words on professionalism', 
+            'In all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection. ',          imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'In all things I am propelled by an unwavering curiosity and desire to understand the world around me. I have a keen analytical sense and bring an ability to build meaningful connections, provide valuable context and engage in thoughtful intellection. ',
         },
         {
           title: 'NIST Security Framework',
