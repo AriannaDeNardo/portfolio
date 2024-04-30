@@ -112,9 +112,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Working on It',
+      body: '',
+      year: '',
       link: 'https://example.com',
     },
   ],
