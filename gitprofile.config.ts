@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['AriannaDeNardo/portfolio'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: '', // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -90,8 +90,7 @@ const CONFIG = {
   skills: [
     'PHP',
     'MySQL',
-    'Git',
-    'PHPUnit',
+    'PHP',
     'CSS',
   ],
   experiences: [
@@ -204,11 +203,6 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
