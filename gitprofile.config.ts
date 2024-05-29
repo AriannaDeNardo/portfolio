@@ -43,7 +43,7 @@ const CONFIG = {
           description:
             'NIST Security Framework Response.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.freepik.com/icon/medal_3672556',
           link: 'https://docs.google.com/document/d/1s2QG_sgF6SrCcCkI1g2C3dp-FPbaqdQD/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },
         {
@@ -51,7 +51,7 @@ const CONFIG = {
           description:
             'Fictional company, non-fiction security audit.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.freepik.com/icon/medal_3672556',
           link: 'https://docs.google.com/document/d/1LX47eHeomrKv_iQ6DpKOhmFnFH8qFiU8/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },   
        {
@@ -59,7 +59,7 @@ const CONFIG = {
           description:
             'Basically a Linux champion.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.freepik.com/icon/medal_3672556',
           link: 'https://docs.google.com/document/d/1VdPMx-ibpVK2rpfXU50JwMdMIUs3AkIr/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },
         {
@@ -67,7 +67,7 @@ const CONFIG = {
           description:
             'Full breakdown of a company network and best security recommendations.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.freepik.com/icon/medal_3672556',
           link: 'https://docs.google.com/document/d/1RMhUHzIAYAqAL445cSuz0TLCpSqo6vHA/edit?usp=drive_link&ouid=109528587178979917847&rtpof=true&sd=true',
         },    
       ],
